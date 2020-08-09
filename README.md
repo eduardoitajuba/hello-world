@@ -1,2 +1,5 @@
 # hello-world
-Only another readme file for tests.
+
+Hi,
+
+This is my first commit for the tutorial about basic Github tools.
